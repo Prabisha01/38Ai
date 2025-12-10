@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/SectionA_AI/src/sectiona_ai/SectionA_AI.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/SectionA_AI/src/database/Database.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/SectionA_AI/src/database/MySqlConnection.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/SectionA_AI/src/images/Preloved.jpg</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/SectionA_AI/src/view/Signup.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/SectionA_AI/src/view/login.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/SectionA_AI/src/model/UserData.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/SectionA_AI/src/dao/userDao.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/SectionA_AI/src/controller/UserController.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/SectionA_AI/src/dao/loginDao.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/SectionA_AI/src/controller/LoginController.java</file>
+        </group>
+    </open-files>
+</project-private>
